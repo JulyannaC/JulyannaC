@@ -1,6 +1,6 @@
 ### Olá👋
 
-Me chama Julyanna Andrade, sou Bacharel em Química pela UFPB e Mestre em Química Inorgânica pelo IQSC/USP. Sou intensamente responsável,organizada, tenho facilidade, gosto de trabalhar em equipe e me adapto bem aos novos desafios.
+Me chamo Julyanna Andrade, sou Bacharel em Química pela UFPB e Mestre em Química Inorgânica pelo IQSC/USP. Sou intensamente responsável,organizada, tenho facilidade, gosto de trabalhar em equipe e me adapto bem aos novos desafios.
 
 Quero atuar e me desenvolver em projetos que agreguem à sociedade, mas também gosto de me desafiar em áreas novas, e por isso nos últimos meses tenho me dedicado também a área de programação! 
 
