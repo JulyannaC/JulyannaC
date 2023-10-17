@@ -1,9 +1,9 @@
 ### Hi there! I'm Julyanna 👋👋
 
-👩🏻‍💻I’m currently looking for opportunities in Data (data science, data analysis...)
-💻 I am very curious and I love to learn and search new stuff!
-🙋🏻‍♀️I am intensely responsible, organized, I like to work in a team and I adapt well to new challenges.
-📚 I'm currently participating in the Santander Bootcamp with an emphasis on Data Sciences with Python. At the moment my goal is to continue improving myself, in addition to being able to put my knowledge into practice.
+- 👩🏻‍💻 I’m currently looking for opportunities in Data (data science, data analysis...)
+- 💻 I am very curious and I love to learn and search new stuff!
+- 🙋🏻‍♀️ I am intensely responsible, organized, I like to work in a team and I adapt well to new challenges.
+- 📚 I'm currently participating in the Santander Bootcamp with an emphasis on Data Sciences with Python. At the moment my goal is to continue improving myself, in addition to being able to put my knowledge into practice.
 
 ### You can find me on
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/julyannac98/)
