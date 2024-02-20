@@ -23,6 +23,7 @@
 
 ### Programming Language
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JAVASCRIPT] (https://img.shields.io/badge/javascript)
 ### Banco de Dados / Databases
 
 ![SQL](https://img.shields.io/badge/SQL-f7f7f7?style=for-the-badge&logo=mysql&logoColor=%2300f)
