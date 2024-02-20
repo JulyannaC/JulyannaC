@@ -12,6 +12,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julyanna-andrade/)
 
+<div>
+<img align="center" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/t9uXq9bdIax9F1xGtng-bZwo0jT3MvEWbAn-Pc9ORrTvMd4kOfGP2fr32_x_OaQGDeQ"/>
+
+**Dev Learning** \
+[**RD**](https://raiadrogasil.workplace.com/profile.php?id=61554349532958) • Tempo integral 
+</div>
 
 ## Skills
 
@@ -25,7 +31,7 @@
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Markup and Style Languages
+### Markup and Style Languages
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
