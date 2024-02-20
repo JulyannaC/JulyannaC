@@ -16,7 +16,7 @@
 <img align="center" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/t9uXq9bdIax9F1xGtng-bZwo0jT3MvEWbAn-Pc9ORrTvMd4kOfGP2fr32_x_OaQGDeQ"/>
 
 **Dev Learning** \
-[**RD**](https://raiadrogasil.workplace.com/profile.php?id=61554349532958) • Tempo integral 
+[**RD**](https://raiadrogasil.workplace.com/profile.php?id=61554349532958)
 </div>
 
 ## Skills
