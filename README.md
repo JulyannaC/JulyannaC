@@ -1,6 +1,6 @@
 ### Hi there! I'm Julyanna 👋👋
 
-- 👩🏻‍💻 I’m currently Dev Learning at RD Raia Drogasil!
+- 👩🏻‍💻 I’m currently Dev Learning at RD Saúde!
 - 💻 I am very curious and I love to learn and search new stuff!
 - 🙋🏻‍♀️ I am intensely responsible, organized, I like to work in a team and I adapt well to new challenges.
 - 📚 At the moment my goal is to continue improving myself, in addition to being able to put my knowledge into practice.
